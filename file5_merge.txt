@@ -1,5 +1,4 @@
 def res():
-	lst = [1,2,3]
-	lst_rev = [3,2,1]
-	g = [(x,y) for x in lst for y in lst_rev]
-	print(g)
+	for i in range(5): 
+		L[i] = [ int(input())]
+		print ( L[i], end = " " )
