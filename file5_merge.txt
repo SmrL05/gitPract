@@ -1,0 +1,4 @@
+def res():
+	for i in range(5): 
+		L[i] = [ int(input())]
+		print ( L[i], end = " " )
